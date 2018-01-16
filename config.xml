@@ -56,8 +56,9 @@
     <engine name="android" spec="~6.3.0" />
     <engine name="ios" spec="~4.5.4" />
     <plugin name="cordova-plugin-app-event" />
-    <plugin name="cordova-plugin-device" />
-    <plugin name="cordova-plugin-local-notification" />
-    <plugin name="cordova-plugin-splashscreen" />
-    <plugin name="cordova-plugin-whitelist" />
+    <plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.4" source="npm"/>
+    <plugin name="cordova-plugin-whitelist"/>
+    <plugin name="cordova-plugin-device"/>
+    <plugin name="cordova-plugin-splashscreen"/>
+
 </widget>
