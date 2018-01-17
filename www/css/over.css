@@ -13,7 +13,12 @@ input.readonly {font-weight:bold; text-align:center; color: #FFF; background:non
 	font-weight:bold;
 	
 	}
-
-
+.vyber {
+	font-size:14px; color:#FFFFFF; border:none; padding:5px; background-color: #00a852; width: 100%;
+	}
+.style13 {
+    font-size: 13px;
+	color: #FC0;
+}
 /* CSS Document */
 
